@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Keerthi
 
-<!--
-**keerthi538/keerthi538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer (SDE 2) | Building AI-powered applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 React.js specialist
+- 🧠 Deep diving into AI fundamentals
+- 🔍 Building RAG systems with LlamaIndex
+- 🎙️ Exploring voice agents with LiveKit
+- 🛠️ Currently building: TeamHub (collaborative SaaS platform)
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+React.js, TypeScript, Redux, Tailwind
+
+**Backend**
+Node.js, Express, MongoDB, postgres
+
+**AI / ML**
+LlamaIndex, RAG, Groq, Livekit, Whisper, FastAI
+
+---
+
+## 📌 Current Focus
+
+- AI-powered SaaS systems
+- Agentic workflows
+- System design
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/keerthikv/
+- Email: keerthikv.dev@gmail.com
