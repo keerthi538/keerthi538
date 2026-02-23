@@ -1,42 +1,42 @@
-# Hi 👋 I'm Keerthi
+# Hi, I'm Keerthi
 
-Software Engineer (SDE 2) | Building AI-powered applications
-
----
-
-## 🚀 About Me
-
-- 💻 React.js specialist
-- 🧠 Deep diving into AI fundamentals
-- 🔍 Building RAG systems with LlamaIndex
-- 🎙️ Exploring voice agents with LiveKit
-- 🛠️ Currently building: TeamHub (collaborative SaaS platform)
+Software Engineer (SDE 2) · Building AI-powered applications
 
 ---
 
-## 🧰 Tech Stack
+### About Me
 
-**Frontend**
-React.js, TypeScript, Redux, Tailwind
-
-**Backend**
-Node.js, Express, MongoDB, postgres
-
-**AI / ML**
-LlamaIndex, RAG, Groq, Livekit, Whisper, FastAI
+- React.js specialist with production experience
+- Diving deep into AI fundamentals
+- Building RAG systems with LlamaIndex
+- Exploring voice agents with LiveKit
+- Currently building: TeamHub (collaborative SaaS platform) -> (link)[myteamhub.in]
 
 ---
 
-## 📌 Current Focus
+### Tech Stack
 
-- AI research papers
-- AI-powered SaaS systems
-- Agentic workflows
-- System design
+**Frontend**  
+React · TypeScript · Redux · Tailwind  
+
+**Backend**  
+Node.js · Express · MongoDB · PostgreSQL  
+
+**AI / ML**  
+LlamaIndex · RAG · Groq · LiveKit · Whisper · fastai  
 
 ---
 
-## 📫 Let's Connect
+### Current Focus
 
-- LinkedIn: https://www.linkedin.com/in/keerthikv/
-- Email: keerthikv.dev@gmail.com
+- AI research papers  
+- AI-powered SaaS systems  
+- Agentic workflows  
+- System design  
+
+---
+
+### Connect
+
+LinkedIn → https://www.linkedin.com/in/keerthikv/  
+Email → keerthikv.dev@gmail.com
