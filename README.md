@@ -10,7 +10,8 @@ Software Engineer (SDE 2) · Building AI-powered applications
 - Diving deep into AI fundamentals
 - Building RAG systems with LlamaIndex
 - Exploring voice agents with LiveKit
-- Currently building: TeamHub (collaborative SaaS platform) -> (link)[myteamhub.in]
+- Currently building: TeamHub (collaborative SaaS platform)
+  - Try it here: [Link](https://myteamhub.in)
 
 ---
 
