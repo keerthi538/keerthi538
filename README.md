@@ -1,6 +1,6 @@
 # Hi 👋 I'm Keerthi
 
-Frontend Engineer (SDE 2) | Building AI-powered applications
+Software Engineer (SDE 2) | Building AI-powered applications
 
 ---
 
@@ -29,6 +29,7 @@ LlamaIndex, RAG, Groq, Livekit, Whisper, FastAI
 
 ## 📌 Current Focus
 
+- AI research papers
 - AI-powered SaaS systems
 - Agentic workflows
 - System design
